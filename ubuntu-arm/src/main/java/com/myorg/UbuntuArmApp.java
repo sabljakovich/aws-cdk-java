@@ -10,8 +10,8 @@ public class UbuntuArmApp {
 
         new UbuntuArmStack(app, "UbuntuArmStack", StackProps.builder()
                 .env(Environment.builder()
-                        .account("948431174004")
-                        .region("eu-west-1")
+                        .account("000000000") // Replace with your account id
+                        .region("eu-west-1") // Replace with your region
                         .build())
                 .build());
 
