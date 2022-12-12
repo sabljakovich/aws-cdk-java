@@ -9,3 +9,5 @@ The source code in this repository is a supplement to blog posts I published on 
 - [Create ARM based Ubuntu EC2 instance with AWS CDK and Java](https://medium.com/@sabljakovich/create-arm-based-ubuntu-ec2-instance-with-aws-cdk-and-java-91b53744179d)
 
 - [Attach Elastic IP to EC2 instance with AWS CDK and Java](https://sabljakovich.medium.com/attach-elastic-ip-to-ec2-instance-with-aws-cdk-and-java-bdcafb795a4a)
+
+- [Create RDS Postgres or MySQL with AWS CDK and Java](https://sabljakovich.medium.com/create-rds-postgres-or-mysql-with-aws-cdk-ana-java-1b94731e83c2)
